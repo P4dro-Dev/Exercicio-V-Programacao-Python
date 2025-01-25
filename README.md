@@ -1,2 +1,2 @@
 # Exerc-cio-V-Programa-o-Pytho
-Nessa atividade do urso Técnico em informática, realize
+Nessa atividade do urso Técnico em informática, realiz
