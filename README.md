@@ -1,2 +1,2 @@
-# Exerc-cio-V-Programa-o-Pyt
+# Exerc-cio-V-Programa-o-Py
 Nessa ati
