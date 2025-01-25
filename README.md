@@ -1,2 +1,2 @@
 # Exerc-cio-V-Programa-o-Python
-Nessa atividade do urso Técnico em informática, realizei cercade 5 questões da disciplina de Programação. Usando a Linguagem Python para ex
+Nessa atividade do urso Técnico em informática, realizei cercade 5 questões da disciplina de Programação. Usando a Linguagem Python para e
