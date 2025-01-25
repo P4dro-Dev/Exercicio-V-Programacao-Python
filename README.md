@@ -1,2 +1,2 @@
 # Exerc-cio-V-Programa-o-Pyt
-Nessa atividad
+Nessa ativida
