@@ -1,2 +1,2 @@
 # Exerc-cio-V-Programa-o-Pytho
-Nessa atividade do urso Técni
+Nessa atividade do urso Técn
