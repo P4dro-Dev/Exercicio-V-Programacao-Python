@@ -1,2 +1,2 @@
-# Exerc-cio-V-Programa-o-Pytho
+# Exerc-cio-V-Programa-o-Pyth
 Nessa atividade do u
