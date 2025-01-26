@@ -1,1 +1,1 @@
-## | Exercício de Progr
+## | Exercício de Progra
