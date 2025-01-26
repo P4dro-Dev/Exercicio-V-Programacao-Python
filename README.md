@@ -1,1 +1,1 @@
-## | Exercício de Programação co
+## | Exercício de Programação com
