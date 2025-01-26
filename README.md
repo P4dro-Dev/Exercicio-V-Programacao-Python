@@ -1,1 +1,1 @@
-## | Exercí
+## | Exercíc
