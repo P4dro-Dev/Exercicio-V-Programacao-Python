@@ -1,5 +1,5 @@
 ## 📑| Exercício de Programação com Python
 
-  Nessa atividade do curso
+  Nessa atividade do curso 
 
 
