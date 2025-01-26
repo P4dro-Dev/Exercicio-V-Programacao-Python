@@ -1,1 +1,1 @@
-## | Exercício de Programação com Pytho
+## | Exercício de Programação com Python
