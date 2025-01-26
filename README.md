@@ -1,1 +1,1 @@
-## | Exercício de Progra
+## | Exercício de Programa
