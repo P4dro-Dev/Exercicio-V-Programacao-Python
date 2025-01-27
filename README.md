@@ -4,5 +4,5 @@
  
 ## ⌛| Tempo de conclusão do Exercício
 
-  Para realizar este desafio levei, cerca de 50 minu
+  Para realizar este desafio levei, cerca de 50 minut
   
