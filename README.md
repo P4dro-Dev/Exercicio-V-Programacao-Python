@@ -4,5 +4,5 @@
  
 ## ⌛| Tempo de conclusão do Exercício
 
-  Para realizar este de levei 
+  Para realizar este des levei 
   
