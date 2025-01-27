@@ -4,5 +4,5 @@
  
 ## ⌛| Tempo de conclusão do Exercício
 
-  Para realizar este desafio levei, cde 
+  Para realizar este desafio levei, cede 
   
