@@ -9,5 +9,5 @@
 ## 📋| Estrutura dos Arquivos
 
 
-## 📱| Contat
+## 📱| Contato
 
