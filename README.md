@@ -2,5 +2,5 @@
 
   Nessa atividade do curso Técnico em Informática, realizei cerca de 4 questões para solucionar problemas de Python.
 
-## ⌛| Tempo de conclusão do Exé
+## ⌛| Tempo de conclusão do Exéc
 
