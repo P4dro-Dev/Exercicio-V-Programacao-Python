@@ -6,5 +6,5 @@
 
   Para realizar este desafio, levei cerca de 50 minutos  
   
-## 📋| Estrutura da
+## 📋| Estrutura d
 
