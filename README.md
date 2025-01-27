@@ -4,5 +4,5 @@
  
 ## ⌛| Tempo de conclusão do Exercício
 
-  Paralevei 
+  Para levei 
   
