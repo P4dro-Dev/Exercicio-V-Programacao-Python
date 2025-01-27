@@ -11,5 +11,5 @@
 
 ## 📱| Contato
 
-  📩| E-mail: henrique.sou
+  📩| E-mail: henrique.sousa
 
