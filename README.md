@@ -4,5 +4,5 @@
  
 ## ⌛| Tempo de conclusão do Exercício
 
-  Para re levei 
+  Para rea levei 
   
