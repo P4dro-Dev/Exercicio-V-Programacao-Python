@@ -11,7 +11,7 @@
                                                                             
 ## 📱| Contato                                                                                   
                                                               
-  📩| E-mail:           x henrique.sousa62@aluno.ifce.edu.br                           
+  📩| E-mail:            henrique.sousa62@aluno.ifce.edu.br                           
        
            
   
